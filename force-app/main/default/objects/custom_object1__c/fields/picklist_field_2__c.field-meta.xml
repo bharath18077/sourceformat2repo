@@ -3,6 +3,8 @@
     <fullName>picklist_field_2__c</fullName>
     <label>picklist field 2</label>
     <required>false</required>
+    <trackFeedHistory>true</trackFeedHistory>
+    <trackHistory>true</trackHistory>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
     <valueSet>
