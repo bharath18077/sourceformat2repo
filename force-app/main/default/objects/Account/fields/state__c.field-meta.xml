@@ -40,6 +40,21 @@
                 <default>false</default>
                 <label>6</label>
             </value>
+            <value>
+                <fullName>7</fullName>
+                <default>false</default>
+                <label>7</label>
+            </value>
+            <value>
+                <fullName>8</fullName>
+                <default>false</default>
+                <label>8</label>
+            </value>
+            <value>
+                <fullName>9</fullName>
+                <default>false</default>
+                <label>9</label>
+            </value>
         </valueSetDefinition>
         <valueSettings>
             <controllingFieldValue>india</controllingFieldValue>
@@ -48,6 +63,10 @@
         <valueSettings>
             <controllingFieldValue>india</controllingFieldValue>
             <valueName>2</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>india</controllingFieldValue>
+            <valueName>7</valueName>
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>USA</controllingFieldValue>
