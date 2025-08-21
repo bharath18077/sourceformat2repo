@@ -65,16 +65,8 @@
             <valueName>7</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>india</controllingFieldValue>
-            <valueName>7</valueName>
-        </valueSettings>
-        <valueSettings>
             <controllingFieldValue>USA</controllingFieldValue>
             <valueName>3</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>AUs</controllingFieldValue>
-            <valueName>5</valueName>
         </valueSettings>
     </valueSet>
 </CustomField>

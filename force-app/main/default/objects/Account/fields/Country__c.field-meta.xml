@@ -19,16 +19,6 @@
                 <default>false</default>
                 <label>USA</label>
             </value>
-            <value>
-                <fullName>AUs</fullName>
-                <default>false</default>
-                <label>AUs</label>
-            </value>
-            <value>
-                <fullName>Canada</fullName>
-                <default>false</default>
-                <label>Canada</label>
-            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
