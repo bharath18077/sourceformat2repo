@@ -6,14 +6,6 @@
     <picklistValues>
         <picklist>Country__c</picklist>
         <values>
-            <fullName>AUs</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Canada</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>USA</fullName>
             <default>false</default>
         </values>
