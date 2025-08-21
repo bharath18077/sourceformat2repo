@@ -4,10 +4,10 @@
     <protected>false</protected>
     <values>
         <field>custom_metadata_field_1__c</field>
-        <value xsi:type="xsd:string">value 21</value>
+        <value xsi:type="xsd:string">value 21212</value>
     </values>
     <values>
         <field>custom_metadata_field_2__c</field>
-        <value xsi:type="xsd:string">value 22</value>
+        <value xsi:type="xsd:string">value 224433</value>
     </values>
 </CustomMetadata>
