@@ -151,22 +151,25 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
-    <enableFeeds>false</enableFeeds>
-    <enableHistory>false</enableHistory>
+    <enableFeeds>true</enableFeeds>
+    <enableHistory>true</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <externalSharingModel>Private</externalSharingModel>
+    <externalSharingModel>Read</externalSharingModel>
     <label>custom object1</label>
     <nameField>
         <label>custom object1  Name</label>
+        <trackFeedHistory>true</trackFeedHistory>
+        <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
     <pluralLabel>object1s</pluralLabel>
+    <recordTypeTrackFeedHistory>true</recordTypeTrackFeedHistory>
     <searchLayouts />
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>Read</sharingModel>
     <startsWith>Vowel</startsWith>
     <visibility>Public</visibility>
 </CustomObject>
